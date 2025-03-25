@@ -66,17 +66,19 @@ Many open-source projects fail due to poor documentation. Even the best code is 
 - Beginners rely on documentation to learn and get involved.
 - Maintainers can grow their projects faster with good documentation.
 
-🔗 [Open Source Documentation Resources](https://github.com/resources/articles/software-development/what-is-open-source-software) – Learn how to write effective documentation for open-source projects.
+🔗 **[Open Source Documentation Resources](https://github.com/cornelius/awesome-open-source)** – Learn how to write effective documentation for open-source projects.
 
 ---
 
-## The Open Source Philosophy and Its Connection to Documentation
+## **The Open Source Philosophy and Its Connection to Documentation**  
 
-The open-source philosophy is about making knowledge accessible. But open code alone isn’t enough—it must be understandable. Documentation is what makes open source truly open, allowing users and contributors to learn, adapt, and improve software.
+The open-source philosophy is about **making knowledge accessible**. But open code alone isn’t enough—it must be **understandable**. Documentation is what makes open source truly open, allowing users and contributors to **learn, adapt, and improve the software**.  
 
-🔗 [The Open Source Definition](https://opensource.org/osd) – The principles of open source.
+🔗 [**The Open Source Definition**](https://opensource.org/osd) – The principles of open source.  
 
-📌 **Key Connection:** Open source thrives on collaboration and knowledge sharing—and documentation is the key that makes it possible.
+🔗 [**What is Open Source Software?**](https://github.com/resources/articles/software-development/what-is-open-source-software) – A guide to understanding OSS.  
+
+📌 **Connection:** Open source thrives on **collaboration and knowledge sharing**—and **documentation is the key** that makes it possible.  
 
 ---
 
@@ -84,7 +86,7 @@ The open-source philosophy is about making knowledge accessible. But open code a
 
 Good documentation isn’t just about writing—it’s about learning from the best. Here are some top open-source repositories known for their excellent documentation:
 
-🔗 [Awesome Open Source Projects](https://github.com/cornelius/awesome-open-source) – A collection of high-quality, well-documented open-source projects.
+🔗 [Awesome Open Source Projects](https://github.com/sindresorhus/awesome) – A collection of high-quality, well-documented open-source projects.
 
 🔗 [Open Source Projects for Beginners](https://github.com/MunGell/awesome-for-beginners) – Beginner-friendly projects with clear documentation.
 
