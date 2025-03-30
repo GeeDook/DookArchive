@@ -95,6 +95,41 @@ Good documentation isn’t just about writing—it’s about learning from the b
 📌 **Takeaway:** Studying these repositories can help improve your own documentation skills!
 
 ---
+# 🌍 Open Source Conferences & Events 2025  
+
+This repository provides a comprehensive list of major open-source conferences and events happening worldwide in 2025. Whether you're a developer, contributor, or enthusiast, attending these events can be a great way to connect with the global open-source community.  
+
+## 🔗 Major Open Source Conferences  
+
+### **DebConf25 (Debian Conference)**  
+📅 **July 14–20, 2025** | 📍 **Brest, France**  
+🔗 [DebConf25 Website](https://debconf25.debconf.org/)  
+
+### **MiniDebConf Maceió 2025**  
+📅 **Date TBA** | 📍 **Maceió, Brazil**  
+🔗 [MiniDebConf Maceió 2025](https://wiki.debian.org/DebianEvents/br/2025/MiniDebConfMaceio)  
+
+### **FOSDEM 2025**  
+📅 **February 1–2, 2025** | 📍 **Brussels, Belgium**  
+🔗 [FOSDEM 2025](https://fosdem.org/2025/)  
+
+### **LibrePlanet 2025 (FSF Conference)**  
+📅 **March 2025** | 📍 **Boston, USA (Hybrid)**  
+🔗 [LibrePlanet 2025](https://libreplanet.org/wiki/LibrePlanet:Conference/2025)  
+
+### **GUADEC 2025 (GNOME Conference)**  
+📅 **Date & Location TBA**  
+🔗 [GUADEC 2025](https://www.gnome.org/guadec/)  
+
+### **KubeCon + CloudNativeCon 2025**  
+📅 **North America & Europe (Multiple events)**  
+🔗 [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon/)  
+
+### **ApacheCon 2025 (Apache Software Foundation)**  
+📅 **Date & Location TBA**  
+🔗 [ApacheCon 2025](https://www.apachecon.com/)  
+ 
+---
 
 ## Top Resources for Improving Documentation Skills
 
@@ -113,6 +148,6 @@ Enhance your documentation skills with these guides, courses, and video content:
 ## 📌 To-Do List
 
 - [ ] **Automation:** Implement an automation system for updating and maintaining documentation.
-- [ ] **Persian Language Support:** Add Persian-language lists and translations for existing documents.
+
 
 ---
